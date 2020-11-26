@@ -9,7 +9,6 @@
 
 *********************
 ## DESCRIPTION
-This README concerns the Python code and data found in the jovanglig/amsterdam_airbnb repo. 
 This is a submission for Udacity's Recommendations with IBM project from the Data Scientist Nanodegree program.
 
 
